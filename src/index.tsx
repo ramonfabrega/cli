@@ -1,6 +1,6 @@
 import { Box, render } from "ink";
-import AccountBalance from "./src/components/account-balance";
-import { ACCOUNTS } from "./src/constants";
+import AccountBalance from "./components/account-balance";
+import { ACCOUNTS } from "./constants";
 
 function App() {
   return (
